@@ -11,11 +11,11 @@ _Specifies the different levels of teaching._
 ------------------------------------------------------------------------
 Level             Objective
 ----------------- ------------------------------------------------------
-Foundational:      Basic use of separate compilation
+Foundational:      Basic us of desktop graphical user interfaces
 
-Main:              Command of supporting mechanisms and tools
+Main:              Different forms of IO and accessibility
 
-Advanced:          Technicalities and tools
+Advanced:          Internationalization and customization
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ For some applications a graphical user interface is beneficial. However, graphic
 
 _Very brief introduction to the topic._
 
-### Foundational: Basic use of separate compilation
+### Foundational: Basic use of desktop graphical user interfaces
 
 #### Background/Required Knowledge
 
@@ -69,7 +69,7 @@ implementation-defined, unspecified, or undefined behavior._
 * API calls are specific to one library and might not be transferable to other libraries
 * Some libraries are written in C 
 
-### Main: Command of supporting mechanisms and tools
+### Main: Different forms of IO and accessibility
 
 #### Background/Required Knowledge
 

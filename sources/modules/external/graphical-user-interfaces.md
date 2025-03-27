@@ -24,7 +24,7 @@ Advanced:          Technicalities and tools
 _Why is this important?_
 _Why do we want to learn/teach this topic?_
 
-For some applications a graphical user interface is beneficial. However, graphical user inerfaces are not part of the C++ standard and external libaries are needed. We provide generic teaching goals and do not focus on a specific external library. Some mentionable libraries are: [Qt](https://www.qt.io/), [Cairo](https://www.cairographics.org/), and [wxWidgets](https://www.wxwidgets.org/). 
+For some applications a graphical user interface is beneficial. However, graphical user interfaces are not part of the C++ standard and external libraries are needed. We provide generic teaching goals and do not focus on a specific external library. Some mentionable libraries are: [Qt](https://www.qt.io/), [Cairo](https://www.cairographics.org/), and [wxWidgets](https://www.wxwidgets.org/). 
 
 ### Topic introduction
 
@@ -52,7 +52,7 @@ A student should be able to:
 2. write an application with one window
 3. add simple widgets like text boxes and buttons to the window
 4. catch events of buttons or other elements
-5. explain the mechanicsm of event-driven programming
+5. explain the mechanics of event-driven programming
 
 #### Points to cover
 
@@ -82,8 +82,8 @@ A student should be able to:
 1. add more advanced elements, like tables or images
 2. handle multiple windows
 3. show error and warning popups
-4. use different forms of IO, like keyboard, mouse, or touchpad
-5. explain basic of fonts and accesibilty 
+4. use different forms of IO, like keyboard, mouse, or touch pad
+5. explain basic of fonts and accessibility 
 
 #### Caveats
 
@@ -99,6 +99,6 @@ _These are important topics that are not expected to be covered but provide
 guidance where one can continue to investigate this topic in more depth._
 
 * Internationalization
-* Font desginers 
-* Hardware accleration
+* Font designers 
+* Hardware acceleration
 * Custom widget generation

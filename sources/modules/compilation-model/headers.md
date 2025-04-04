@@ -79,7 +79,6 @@ _Description: Write headers to support separate compilation and code organizatio
 
 #### Background/Required Knowledge
 
-* All of the above
 * Define a function and write a separate, matching, declaration
 * Distinguish between a declaration and a definition
 * Compile multiple translation units and link them together into a single executable

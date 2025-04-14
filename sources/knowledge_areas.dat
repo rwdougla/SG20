@@ -55,6 +55,8 @@ EH Error Handling
 	? ? ? ? errno
 	? ? ? ? Error Codes
 	eh y y y Exception Handling
+PD Program Design
+	cont y y y Containers
 DE Debugging Errors
 	compiletimeerr y y y Compile-Time Errors
 	runtimeerr y y y Run-time Errors

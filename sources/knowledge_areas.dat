@@ -56,6 +56,7 @@ EH Error Handling
 	? ? ? ? Error Codes
 	eh y y y Exception Handling
 DE Debugging Errors
+	compiletimeerr y y y Compile-Time Errors
 	runtimeerr y y y Run-time Errors
 SL Standard Library
 	? ? ? ? Input/Output (I/O)
